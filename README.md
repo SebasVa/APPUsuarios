@@ -1,5 +1,6 @@
 # appUsuarios
 Taller Calificado
+Implemetar una aplicacion en Android studio que escriba o lea de firebase (Realtime Database)
 
 #Integrantes:
 Sebastián Valencia
